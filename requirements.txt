@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers>=4.45
+pandas
+numpy
+Pillow
+requests
+tqdm
+jupyter
